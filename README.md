@@ -1,3 +1,6 @@
-# https://jamesl7ao.github.io/TMAll/
-天猫超市
-![这是轮播图图片](https://jamesl7ao.github.io/TMAll/img/slideshow3.jpg)
+# https://jamesl7ao.github.io/TMAll/  （项目地址）
+
+项目简介：天猫超市项目（固定版心类），由两人合作开发，本人担任小组组长。
+
+主要负责首页，购物车，我的福利，登录注册等页面。
+
